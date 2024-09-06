@@ -24,6 +24,10 @@
 - **Form Validation**: Joi
 
 ![image](https://github.com/user-attachments/assets/cf3ec8da-869d-448a-bf32-b9507f793baa)
+![image](https://github.com/user-attachments/assets/e3c44110-9bea-43a9-ac84-b52658ac51aa)
+![Screenshot 2024-09-06 130829](https://github.com/user-attachments/assets/6fb929f9-cf55-4c7b-a54b-ea7bd0545c93)
+
+
 
 
 
