@@ -1,5 +1,4 @@
-# New_WANDERLUST
-# Wanderlust
+# Wanderlust 2.0
 
 **Wanderlust** is a full-stack web application for managing and reviewing travel listings. The app features user authentication, image uploads, interactive maps with Mapbox, and more.
 
